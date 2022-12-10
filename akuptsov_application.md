@@ -60,6 +60,7 @@
 *	Java / Android Studio – для разработки Android-версии
 *	Swift / XCode – для разработки iOS-версии
 *	HTML / CSS / JS / Django / jQuery – для разработки веб-версии
+*	PostgreSQL
 
 **[ ЭТАПЫ РАЗРАБОТКИ ]**
 
