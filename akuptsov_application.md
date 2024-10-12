@@ -3,7 +3,7 @@
 
 ### Группа: 10 - МИ - 1
 ### Электронная почта: akuptsov.hse@gmail.com
-### VK: www.vk.com/alekscooper
+### Tg: alekscooper
 
 
 **[ НАЗВАНИЕ ПРОЕКТА ]**
